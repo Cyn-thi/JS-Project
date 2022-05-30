@@ -37,3 +37,11 @@ body {
      }
 
     }
+
+@media (max-width: 769px) {
+    #center {
+        min-height: 150vh;
+        min-width: 60%;
+    }
+}
+    
