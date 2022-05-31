@@ -41,10 +41,19 @@ body {
 
     }
 
-@media (max-width: 769px) {
-    #center {
-        min-height: 150vh;
-        min-width: 60%;
-    }
-}
+@media (max-width: 769px)  {
+        #center {
+            min-height: 100vh;
+            min-width: 60%;
+        }
     
+        
+        #member1, #member2, #member3, #member4, #member5, #member6, #member7, #member8, #member9 {
+             margin-bottom: 7px;
+         }
+    
+        #member1 {
+             margin-top: 7px;
+         }
+    
+        }  
