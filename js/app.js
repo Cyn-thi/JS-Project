@@ -6,6 +6,7 @@ document.getElementById("center").style.borderRadius = "10px";
 document.getElementById("center").style.color = "white";
 document.getElementById("center").style.fontSize = "25px";
 document.querySelector("#center").style.padding = "15px";
+document.querySelector("#center").style.marginTop = "30px";
 
 let teamName = "Zues"
 var memberName = ["Tolu", "Luchi", "HayJ", "OreOluwa", "Etionsa", "Simple_soul", "Mavdavis", "TJ", "Khalid"]
